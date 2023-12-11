@@ -6,3 +6,4 @@ Form yang baik adalah form yang user friendly dengan pengguna sehingga pengguna 
 menggunakan aplikasi. Salah satu form yang kita temui pada setiap aplikasi adalah form login.
 
 ## Tampilan 
+![GUi1](https://github.com/Naufallm/GUI-Latihan-1/assets/130893000/f2a9f3b1-5593-41f7-8dc5-25cd3685de38)
